@@ -162,4 +162,4 @@ The current project supports landmark collection and model training. For machine
 
 ## Author
 
-Amrit Kumar Jena
+Amrit 
